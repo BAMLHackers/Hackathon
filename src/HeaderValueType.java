@@ -1,0 +1,6 @@
+
+public enum HeaderValueType {
+    PERCENTAGE_PROFIT_MARGIN,
+    CURRENT_PRICE_GBP,
+    PRICE_BOUGHT_AT_GBP
+}
